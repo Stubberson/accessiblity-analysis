@@ -8,5 +8,10 @@ The article modelled accessibility with [Hansen's (1959)](https://www.tandfonlin
 **Aim of the Notebook** <br>
 The aim of the notebook was to understand and replicate the methodology used by Hadjidimitrou et al. in a different geographical context, namely the Helsinki region. The work of Hadjidimitriou et al. was followed closely with the exception of the data used and a few methodological deviations. The notebook doesn't reach an analytical depth present in the original paper, mainly due to time limitations. In addition, the notebook is more a proof-of-concept with limited sample size rather than a fully-fledged analysis of accessibility in Helsinki. However, with minor modifications and more computing time, it has the potential to act as a data processing pipeline for predicting accessibility.
 
+**TLDR** <br>
+There seems to be great potential for machine learning to understand and predict accessibility in geographical areas with limited data. The transferability of the predictive power from a data intensive area to an area with almost no data with machine learning models is promising.
+
 > [!note]
-> Student/author: Tuukka Korpela; Supervisor: Henrikki Tenkanen; Assistant: Subhrasankha Dey
+> Student/author: Tuukka Korpela <br>
+> Supervisor: Henrikki Tenkanen <br>
+> Assistant: Subhrasankha Dey
